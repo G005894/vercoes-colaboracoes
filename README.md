@@ -1,4 +1,4 @@
-# vercoes-colaboracoes
+# versoes-colaboracoes
 Conforme solicitado, os passos para versionamento de código são:
 Configurar o usuário e email (conforme cadastrado no GitHub), através de: git config --global user.name e git config --global user.email
 Criar a estrutura inicial do repositório Git na PC local, através do comando: git init
