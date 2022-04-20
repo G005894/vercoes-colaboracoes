@@ -7,3 +7,5 @@ Utilixzar o comando: git add . para adicionar os arquivos ao histórico do proje
 Registrar as alterações no repositório através de: git commit -m
 Informar a pasta remota, para onde irão os arquivos no GitHub
 Pelo comando: git push -u origin main empurrar os arquivos para o repositório do GitHub.
+
+Alteração local para postar no repositório do GitHub
